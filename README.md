@@ -36,7 +36,7 @@ The project demonstrates significant improvements in forecasting accuracy with t
 
 ## Project Structure
 ```plaintext
-european-roaming-forecast/
+Predicting-European-Roaming-Internet-Consumption-Time-Series-Forecasting/
 │
 ├── data/                    # Data files (not included due to confidentiality)
 ├── notebook/                # Jupyter notebooks for data exploration and model training
