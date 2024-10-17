@@ -40,6 +40,7 @@ european-roaming-forecast/
 │
 ├── data/                    # Data files (not included due to confidentiality)
 ├── notebook/                # Jupyter notebooks for data exploration and model training
+├── Snippets_of_Report_Summer_internship.pdf
 ├── README.md                 # Project overview and documentation
 ├── requirements.txt          # Required dependencies for the project
 └── .gitignore                # Gitignore file for sensitive and unnecessary files
